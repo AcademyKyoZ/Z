@@ -3,8 +3,9 @@
   "url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.3.2/KyoZ.apk",
   "games": [
     {
-      "id": "sololeveling",
+      "id": "sololv",
       "package": "com.netmarble.sololv",
+      "version": "1.3.2",
       "install_url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.3.2/SoloLeveling_Package.apk"
     }
   ]
