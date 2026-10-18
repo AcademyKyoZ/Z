@@ -1,12 +1,12 @@
 {
   "version": "1.3.2",
-  "url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.3.2/KyoZ.apk",
+  "url": "https://github.com/AcademyKyoZ/Z/releases/download/untagged-b2936caab81307cefc18/KyoZ.apk",
   "games": [
     {
       "id": "sololv",
       "package": "com.netmarble.sololv",
       "version": "1.3.2",
-      "install_url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.3.2/SoloLeveling_Package.apk"
+      "install_url": "https://github.com/AcademyKyoZ/Z/releases/download/untagged-cc35a0f7a3b7dc8084a1/Solo.apk"
     }
   ]
 }
