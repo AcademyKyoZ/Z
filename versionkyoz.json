@@ -12,6 +12,24 @@
       "tier": "free"
     },
     {
+      "id": "wuwa",
+      "name": "Wuthering Waves",
+      "package": "com.kurogame.wutheringwaves.global",
+      "version": "1.0.0",
+      "install_url": "https://raw.githubusercontent.com/AcademyKyoZ/Z/refs/heads/main/WutheringWaves.apk",
+      "status": "in_dev",
+      "tier": "premium"
+    },
+    {
+      "id": "genshin",
+      "name": "Genshin Impact",
+      "package": "com.miHoYo.GenshinImpact",
+      "version": "1.0.0",
+      "install_url": "https://raw.githubusercontent.com/AcademyKyoZ/Z/refs/heads/main/GenshinImpact.apk",
+      "status": "in_dev",
+      "tier": "premium"
+    },
+    {
       "id": "endfield",
       "name": "Arknights: Endfield",
       "package": "com.gryphline.endfield.gp",
