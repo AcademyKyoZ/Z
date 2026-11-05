@@ -1,15 +1,16 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.0.0/KyoZ.apk",
+  "version": "1.3.2",
+  "url": "https://github.com/AcademyKyoZ/Z/releases/download/v1.3.2/KyoZ.apk",
   "games": [
     {
       "id": "wuwa",
       "name": "Wuthering Waves",
       "package": "com.kurogame.wutheringwaves.global",
       "version": "2.0.0",
-      "url": "https://download-link-game-or-apk",
+      "url": "https://raw.githubusercontent.com/AcademyKyoZ/Z/refs/heads/main/KyoZ.apk",
       "status": "ready",
-      "tier": "free"
-    }
+      "tier": "free",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0V1MGgL5n9_Md4mmYqUgdWjxJ-yTM5XAp-Zw4ChG3rC0V5bpdxFs7bFK&s=10"
+    },
   ]
 }
