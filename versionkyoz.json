@@ -12,5 +12,15 @@
       "tier": "free",
       "banner": "https://i.ibb.co/8DwHtsMR/35f81336-5beb-46dc-8c7a-a92fd98a6874.jpg"
     },
+    {
+      "id": "sla",
+      "name": "Solo Leveling:Arise",
+      "package": "com.netmarble.sololv",
+      "version": "2.0.0",
+      "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Sla.apk",
+      "status": "ready",
+      "tier": "premium",
+      "banner": "https://images.alphacoders.com/139/thumb-1920-1394862.jpg"
+    }
   ]
 }
