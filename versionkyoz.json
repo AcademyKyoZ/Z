@@ -17,10 +17,20 @@
       "name": "Solo Leveling:Arise",
       "package": "com.netmarble.sololv",
       "version": "2.0.0",
-      "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Sla.apk",
+      "url": "",
       "status": "ready",
       "tier": "premium",
       "banner": "https://images.alphacoders.com/139/thumb-1920-1394862.jpg"
+    },
+    {
+      "id": "ae",
+      "name": "Arknights: Endfield",
+      "package": "com.gryphline.endfield.gp",
+      "version": "2.0.0",
+      "url": "",
+      "status": "ready",
+      "tier": "premium",
+      "banner": "https://i.ibb.co/Tq7Sdj92/34ts0ov34gyf1.png"
     }
   ]
 }
