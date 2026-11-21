@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Z.apk",
   "games": [
     {
@@ -17,9 +17,9 @@
       "name": "Solo Leveling:Arise",
       "package": "com.netmarble.sololv",
       "version": "2.0.0",
-      "url": "",
+      "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Sl.apk",
       "status": "ready",
-      "tier": "premium",
+      "tier": "free",
       "banner": "https://images.alphacoders.com/139/thumb-1920-1394862.jpg"
     },
     {
