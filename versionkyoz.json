@@ -31,6 +31,16 @@
       "status": "ready",
       "tier": "premium",
       "banner": "https://i.ibb.co/Tq7Sdj92/34ts0ov34gyf1.png"
+    },
+    {
+      "id": "gi",
+      "name": "Genshin Impact",
+      "package": "com.miHoYo.GenshinImpact",
+      "version": "2.0.0",
+      "url": "",
+      "status": "ready",
+      "tier": "premium",
+      "banner": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/genshin-impact-traveler-sitting-on-cliff-overlooking-mondstadt.jpg"
     }
   ]
 }
