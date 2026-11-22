@@ -1,12 +1,12 @@
 {
-  "version": "1.9.0",
+  "version": "1.11.0",
   "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Z.apk",
   "games": [
     {
       "id": "wuwa",
       "name": "Wuthering Waves",
       "package": "com.kurogame.wutheringwaves.global",
-      "version": "2.10.0",
+      "version": "2.10.5",
       "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Ww.apk",
       "status": "ready",
       "tier": "free",
@@ -27,9 +27,9 @@
       "name": "Arknights: Endfield",
       "package": "com.gryphline.endfield.gp",
       "version": "2.0.0",
-      "url": "",
+      "url": "https://github.com/AcademyKyoZ/Z/releases/download/Z/Ae.apk",
       "status": "ready",
-      "tier": "premium",
+      "tier": "free",
       "banner": "https://i.ibb.co/Tq7Sdj92/34ts0ov34gyf1.png"
     },
     {
